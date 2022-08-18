@@ -17,5 +17,5 @@ The ARM template includes the cloud init files which runs commands on the VM ins
 
 
 ## Deploy Ubuntu VMSS
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fjpbruckler%2Fdataconnectors%2Fmain%2FFCEF-VMSS%2FCEF-VMSS-UB-Templatev2.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fjpbruckler%2Fdataconnectors%2Fmain%2FCEF-VMSS%2FCEF-VMSS-UB-Templatev2.json)
 
